@@ -2,6 +2,9 @@
 	margin: 0;
 	padding:0;
 }
+body{
+	background: red;
+}
 .fa-github,.fa-linkedin,.fa-twitter,.fa-facebook-square,.fa-instagram{
 	font-size: 35px;
 }
